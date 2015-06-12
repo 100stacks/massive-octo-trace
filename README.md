@@ -1,4 +1,6 @@
-# octo-trace
+# angular fire slkr octo trace
+
+Using Yeoman AngularJS Firebase to build out an open source Slack alternative
 
 ## Build & development
 
