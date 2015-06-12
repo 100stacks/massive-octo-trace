@@ -8,16 +8,16 @@
  * Main module of the application.
  */
 
- angluar
+ angular
  	.module('angluarFireSlakerApp', [
  		'firebase',
- 		'angluar-md5',
+ 		'angular-md5',
  		'ui.router'
  		])
  	.config(function ($stateProvider, $urlRouterProvider) {
  		$stateProvider
  			.state('home', {
- 				url: '/'.
+ 				url: '/',
  				templateUrl: 'home/home.html' 
  			})
  		.state('login', {
