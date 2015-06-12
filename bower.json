@@ -1,9 +1,13 @@
 {
-  "name": "octo-trace",
-  "version": "0.0.0",
+  "name": "angular-fire-slkr-octo-trace",
+  "version": "0.0.1",
   "dependencies": {
     "angular": "^1.3.0",
     "bootstrap": "^3.2.0",
+    "angularfire": "~1.1.0",
+    "angular-ui-router": "~0.2.14",
+    "angular-md5": "~0.1.7",
+    
     "angular-animate": "^1.3.0",
     "angular-aria": "^1.3.0",
     "angular-cookies": "^1.3.0",
@@ -17,5 +21,5 @@
     "angular-mocks": "^1.3.0"
   },
   "appPath": "app",
-  "moduleName": "octoTraceApp"
+  "moduleName": "angluarFireSlakerApp"
 }
