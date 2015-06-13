@@ -32,4 +32,4 @@
  		$urlRouterProvider.otherwise('/');
 
  	})
- 	.constant('FirebaseUrl', 'https://www.firebase.com/');
+ 	.constant('FirebaseUrl', 'https://sweltering-torch-6119.firebaseio.com/');
