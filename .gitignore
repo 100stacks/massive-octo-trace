@@ -10,6 +10,11 @@ bower_components
 
 node_modules
 
+################################
+# Heroku Environment Variables #
+################################
+
+
 ###################
 # Compiled source #
 ###################
